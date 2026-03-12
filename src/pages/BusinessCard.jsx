@@ -55,7 +55,7 @@ const BusinessCard = () => {
               </div>
               <div className="flex items-start">
                 <span className="text-blue-600 mr-2"  style={{transform: 'translateY(-3px)'}}>🌐</span>
-                <p className="text-sm text-gray-600">{language === 'zh' ? '网站: https://mcxue.cn/axisWise' : 'Website: https://mcxue.cn/axisWise'}</p>
+                <p className="text-sm text-gray-600">{language === 'zh' ? '网站: https://axis-wise.github.io' : 'Website: https://axis-wise.github.io'}</p>
               </div>
             </div>
           </div>
